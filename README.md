@@ -7,6 +7,6 @@
 学校:徐州工业职业技术学院
 专业:信息管理
 手机:17092552689
-邮箱:[WenanLee@outlook.com](WenanLee@outlook.com)
+邮箱:<WenanLee@outlook.com>
 Github:@wenanlee
-主页:[https://wenanlee.github.io/](https://wenanlee.github.io/)
+主页:<https://wenanlee.github.io/>
